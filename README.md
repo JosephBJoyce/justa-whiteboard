@@ -65,4 +65,4 @@ Features are added carefully to avoid breaking core behavior.
 
 ## License
 
-MIT — do whatever you like with it.
+Apache 2.0— do whatever you like with it.
